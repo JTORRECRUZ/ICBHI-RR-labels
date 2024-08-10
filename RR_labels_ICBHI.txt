@@ -1,0 +1,78 @@
+BOTH
+141_1b3_Pr_mc_LittC2SE 13.8
+156_5b3_Pr_mc_AKGC417L 27.5
+
+WHEEZES
+117_1b3_Tc_mc_LittC2SE 13.8
+130_1p4_Al_mc_AKGC417L 21.4
+193_1b2_Pl_mc_AKGC417L 34.8
+201_1b3_Ar_sc_Meditron 17.1
+206_1b1_Pl_sc_Meditron 24.9
+221_2b3_Al_mc_LittC2SE 13.1
+223_1b1_Ar_sc_Meditron 18.8
+
+CRACKLES 
+107_3p2_Pl_mc_AKGC417L 26.8
+130_2b2_Al_mc_AKGC417L 22.7
+142_1b1_Pl_mc_LittC2SE 24.3
+154_2b4_Ll_mc_AKGC417L 23.8
+160_2b4_Pr_mc_AKGC417L 21.8
+162_1b2_Tc_mc_AKGC417L 8.1
+170_1b3_Pl_mc_AKGC417L 20.5
+176_1b4_Pr_mc_AKGC417L 16.6
+177_2b4_Pl_mc_AKGC417L 15.4
+186_3b3_Pl_mc_AKGC417L 16.4
+205_1b3_Ar_mc_AKGC417L 16.7
+207_2b4_Ar_mc_AKGC417L 14.7
+
+NORMAL
+102_1b1_Ar_sc_Meditron 36.2
+105_1b1_Tc_sc_Meditron 23.2
+107_2b4_Tc_mc_AKGC417L 23.8
+111_1b2_Tc_sc_Meditron 23.3
+116_1b2_Tc_sc_Meditron 10.8
+117_1b2_Tc_mc_LittC2SE 16.4
+119_1b1_Ar_sc_Meditron 24.3
+121_1b1_Tc_sc_Meditron 13.6
+126_1b1_Al_sc_Meditron 28.3
+130_2b3_Tc_mc_AKGC417L 29.1
+133_2p2_Ar_mc_AKGC417L 25.1
+135_2b3_Tc_mc_LittC2SE 27.8
+138_1p4_Tc_mc_AKGC417L 15.5
+141_1b2_Tc_mc_LittC2SE 13.8
+143_1b1_Al_sc_Meditron 50.0
+146_2b4_Ar_mc_AKGC417L 14.2
+148_1b1_Al_sc_Meditron 28.3
+153_1b1_Al_sc_Meditron 29.1
+155_2b1_Al_mc_LittC2SE 15.4
+159_1b1_Ar_sc_Meditron 26.9
+160_2b4_Tc_mc_AKGC417L 22.2
+162_2b3_Pl_mc_AKGC417L 8.8
+163_2b2_Pr_mc_AKGC417L 12.8
+165_1b1_Pl_sc_Meditron 23.3
+167_1b1_Al_sc_Meditron 38.4
+168_1b1_Al_sc_Meditron 20.4
+170_1b2_Tc_mc_AKGC417L 18.9
+178_1b6_Tc_mc_AKGC417L 25.6
+181_1b3_Tc_mc_LittC2SE 12.1
+183_1b1_Tc_sc_Meditron 9.4
+186_2b4_Tc_mc_AKGC417L 14.7
+188_1b1_Ar_sc_Meditron 52.6
+191_2b2_Tc_mc_LittC2SE 23.4
+193_7b3_Al_mc_AKGC417L 25
+194_1b1_Lr_sc_Meditron 24.1
+200_2p2_Ar_mc_AKGC417L 16.2
+202_1b1_Ar_sc_Meditron 29.1
+203_2p3_Al_mc_AKGC417L 16.2
+204_7p5_Ar_mc_AKGC417L 18.6
+207_2b2_Pr_mc_AKGC417L 19.1
+209_1b1_Tc_sc_Meditron 9.1
+211_1p3_Ar_mc_AKGC417L 38.7
+213_2p2_Tc_mc_AKGC417L 23.8
+214_1b1_Ar_sc_Meditron 20.8
+215_1b3_Tc_sc_Meditron 13.9
+217_1b1_Tc_sc_Meditron 30.9
+219_2b1_Tc_mc_LittC2SE 11.4
+220_1b2_Al_mc_LittC2SE 18.1
+224_1b2_Al_sc_Meditron 19.4
+225_1b1_Pl_sc_Meditron 37.5
